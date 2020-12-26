@@ -30,7 +30,7 @@ Features
 
 Download/Installation
 ====
-* git clone https://github.com/mirai101/cinon
+* git clone https://github.com/mirai101/cinon.git
 * pip install -r requirements.txt
 
 
